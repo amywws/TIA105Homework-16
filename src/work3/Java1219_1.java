@@ -21,6 +21,7 @@ public class Java1219_1 {
 		}else {
 			System.out.println("不是三角形");
 		}
+		sc.close();
 	}
 
 }
