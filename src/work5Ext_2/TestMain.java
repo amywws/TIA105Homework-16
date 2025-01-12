@@ -11,8 +11,8 @@ public class TestMain {
 		poppy.attack();
 		poppy.defend();
 		poppy.run();
-		
 		System.out.println(poppy.name);
+
 		System.out.println("==================");
 		
 		Tahmkench tahmkench = new Tahmkench("貪啃奇");
